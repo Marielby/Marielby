@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Mari.
+- 🌈 I’m UX/UI Designer.
+- 👀 I’m interested in arts and tec.
+- 👩‍💻 I’m currently learning to programming and would like to specialize in QA+Automation.
